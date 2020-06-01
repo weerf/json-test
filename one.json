@@ -1,4 +1,13 @@
 {
-	a: "dssfff",
-	b: "dddss"
+  "gas_station": "MC002",
+  "items": [
+    {
+      "count": 1,
+      "name": "Капучино",
+      "price": 150
+    }
+  ],
+  "number_order": 228,
+  "phone_number": "9885918318",
+  "sum_order": 150
 }
