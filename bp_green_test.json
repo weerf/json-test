@@ -1,0 +1,20 @@
+{
+  "data": {
+    "bonus_description": "Повышенные баллы будут начислены до 12 числа следующего месяца.",
+    "card_holder_info": {
+      "level_change_date_time": "26.09.2020 11:37:05",
+      "liters_current_period": 49,
+      "liters_to_next_level": 121
+    },
+    "cards": [
+      {
+        "bonus_charged_sum": 0,
+        "bonus_sum": 0,
+        "bonus_to_sum": 0,
+        "last_four_digits": "1060",
+        "product_type": 1,
+        "status": "active"
+      }
+    ]
+  }
+}
